@@ -1,0 +1,8 @@
+<plugin>
+	<extension
+		name="PythonGeneraor"
+		point="su.nsk.iae.post.post_extension">
+		<client
+			class="su.nsk.iae.post.generator.py.PyGenerator"></client>
+	</extension>
+</plugin>
